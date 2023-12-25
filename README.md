@@ -1,2 +1,1 @@
-# JavaProject Team 2
-Template repo for Java project
+Console Based Ticket Management App in Java
