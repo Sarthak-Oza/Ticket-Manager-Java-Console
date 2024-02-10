@@ -45,4 +45,24 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository (`git push origin feature/your-feature-name`).
 5. Create a new pull request.
 
+## Screenshots
+
+Main Window
+
+![Menu](https://github.com/Sarthak-Oza/Ticket-Manager-Java-Console/assets/68885011/2a6a660c-975e-4624-936a-a1380f6e9edf)
+
+Update Ticket
+
+![Update Ticket](https://github.com/Sarthak-Oza/Ticket-Manager-Java-Console/assets/68885011/59789d06-87e0-41c9-a6bb-b2b17674bdde)
+
+Update Ticket Status
+
+![Update Status](https://github.com/Sarthak-Oza/Ticket-Manager-Java-Console/assets/68885011/5f97815c-d79d-4934-86b8-13eaa24013ff)
+
+Filter Tickets based on Assignee
+
+![Assigned Tickets](https://github.com/Sarthak-Oza/Ticket-Manager-Java-Console/assets/68885011/7aaa5d74-dd4d-492c-9b7b-c59017b9c950)
+
+
+
 
